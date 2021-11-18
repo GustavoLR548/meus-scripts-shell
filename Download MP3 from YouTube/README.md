@@ -7,7 +7,7 @@ to mp3. To use the script just simple run the script in the terminal using:
 ./download_mp3.sh {insert-video/playlist-url}
 ```
 
-You can also set a variable in bash, so your videos will be download on a specific directory, in order
+You can also set a variable in bash, so your videos will be download on a specific directory. In order
 to use this feature, use the following command:
 
 ```
